@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and impartial account of the cruel and bloody murther committed upon the body of Thomas Thin, Esq., well known in the west of Engl. for an estate of near 120000 l. a year on Sunday the 12th of February, 1682, between the hours of seaven and eight at night, who was barbarously and inhumanely butcher'd in his own coach in the open street, by three out-landish villains, named, Frederick Fratz, a German captain, and George Boroskie, a Polander, and John Stern, a German ... letting you know the cause of this assassination, which they alledge was in the vindication of Count Charles John Conningsmarke ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94922</idno>
+            <idno type="STC">Wing T2490B</idno>
+            <idno type="STC">ESTC R43784</idno>
+            <idno type="EEBO-CITATION">42475240</idno>
+            <idno type="OCLC">ocm 42475240</idno>
+            <idno type="VID">151398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151398)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and impartial account of the cruel and bloody murther committed upon the body of Thomas Thin, Esq., well known in the west of Engl. for an estate of near 120000 l. a year on Sunday the 12th of February, 1682, between the hours of seaven and eight at night, who was barbarously and inhumanely butcher'd in his own coach in the open street, by three out-landish villains, named, Frederick Fratz, a German captain, and George Boroskie, a Polander, and John Stern, a German ... letting you know the cause of this assassination, which they alledge was in the vindication of Count Charles John Conningsmarke ...</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Millit,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>in the Year, 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thynne, Thomas, 1648-1682.</term>
+               <term>Borodzycz, George, d. 1682.</term>
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Stern, John, d. 1682.</term>
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151398:1" rendition="simple:additions"/>
+            <p>A True and Impartial Account of the cruel and bloody <hi>MURTHER,</hi> committed Upon the Body of Thomas Thin, <abbr>Eſq</abbr>
+            </p>
+            <p>Well known in the Weſt of <hi>Engl.</hi> for an eſtate of near 12000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Year On Sunday the 12th of <hi>February,</hi> 1682.</p>
+            <p>between the Hours of Seaven and Eight at Night, who was barba<g ref="char:EOLhyphen"/>rouſly and inhumanely Butcher'd in his own Coach, in the open Street, by Three Out-landiſh Villains, Named, <hi>Frederick Fratz,</hi> a <hi>German</hi> Captain; and <hi>George Bo<g ref="char:EOLhyphen"/>roskie,</hi> a <hi>Polander;</hi> and <hi>John Stern,</hi> a <hi>German.</hi>
+            </p>
+            <p>Giving you an Exact Account how they were ſeverally Exa<g ref="char:EOLhyphen"/>mined before the <hi>Councill;</hi> who after their Examinations were all Three committed to <hi>Newgate.</hi> Together, with a <hi>German</hi> Doctor, who was ſuppoſed privy to the matter.</p>
+            <p>Letting you underſtand the cauſe of this <hi>Aſſaſſination;</hi> which they alledge was in the Vindication of <hi>Count Charles John Conningsmarke,</hi> Who hath ſometime layn ſecretly about <hi>London;</hi> and upon the Mur<g ref="char:EOLhyphen"/>ther committed, did privately remove from his Lodgings, thinking thereby to have Eſcaped beyond the Seas: But was accidentally ta<g ref="char:EOLhyphen"/>ken at <hi>Graveſend,</hi> and afterwards Examined before King and Council: on the 20th of <hi>Feb.</hi> 1682. With many more things worth your Obſervation. As Namely, A New <hi>Diſcovery</hi> made by the <hi>Sweediſh Ambaſſadour,</hi> in <hi>Councill;</hi> how that the Tutor of the Young Count <hi>Conningſ<g ref="char:EOLhyphen"/>mark</hi> ſhould ask him ſeveral Queſtions concerning the ſaid Mr. <hi>Thin,</hi> very Material to this purpoſe, and whether if this Mr. <hi>Thin</hi> were removed, the <hi>Count</hi> could Lawfully Marry with the Lady <hi>Oagle.</hi>
+            </p>
+            <p>Being the Subſtance of the Tryals of <hi>Count Charles John Koningſmark,</hi> Alſo the Tryal of <hi>Fredrick Fratz,</hi> a <hi>German,</hi> Captain <hi>John Stern,</hi> a <hi>German</hi> Lieutenant, and <hi>George Boroskie,</hi> a <hi>Polander:</hi> which Three laſt were all Condemned for the ſaid Murther: The <hi>Count</hi> having nothing but Circumſtantial Evidence againſt him, was ac<g ref="char:EOLhyphen"/>quitted for the ſame.</p>
+            <p>Printed for <hi>J. Millit,</hi> in the Year, 1682.</p>
+            <pb facs="tcp:151398:2"/>
+            <pb facs="tcp:151398:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:151398:3"/>
+            <head>An Impartial Account of the bloody Murther, committed upon body of <hi>Thomas Thin,</hi> Eſquire.</head>
+            <p>ON <hi>Sunday</hi> the 12th. Inſtant, 1682, this worthy Gent<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>man deceaſed, by name <hi>Thomas Thin,</hi> 
+               <abbr>Eſq</abbr> having be<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> accompanied by, and honoured with the preſen<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of his Grace the Duke of <hi>Monntouth</hi> the major part of the d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> were about 7 or 8 of the Clock at night, returning to their <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſpective Habitations, the Duke parting with the aforeſa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Gentleman at a place which he thought convenient; befo<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> he came to the Habitation of the deceaſed, after many frien<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly farewels on both ſides, this Squires Coach drave on, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> coming to a place known by the name of <hi>Pall-Mall,</hi> near <hi>Pic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>adilly,</hi> his Servants perceived three perſons on Horſe-bac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> riding towards the Coach, but not dreading any har<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> took little Cognizance of them, till on a ſudden riding <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cloſe to the Coach, one of them fired (as is ſuppoſed a Blu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>derbus, or) a Muſquetoon into the Coach, which mortal<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wounded the ſaid Gentleman, and ſo amazed the Servant that they knew not how to look one upon the other; b<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> finding their Maſter wounded, made what haſt they cou<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> after theſe bloody-minded Wretches, crying, Murder, Mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>der; but they conſcious of their Helliſh Fact, by the he<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of their Horſes got off without being taken, and as ſom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, crying, a Race, a Race, as they Rid; but yet the pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuit (though in vain that night) ceaſed not, for notwithſtand<g ref="char:EOLhyphen"/>ing the diligence of the Servants in ſearching and purſuing no diſcovery could be made. This amazing and unwelcom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> News came at laſt, and in little time too, to the ear of his S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veraign Majeſty, who to ſhew his diſpleaſure againſt ſuc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bloody and barbarous Cruelties, he immediately diſpatch<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Orders to the Sea-Ports for the ſtrict Examination of all per<g ref="char:EOLhyphen"/>ſons about to Tranſport themſelves beyond Sea, and alſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diligent ſearch to be made here in Town, hoping thereby t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:151398:3"/>find out theſe baſe and wicked actors of this horrible Murder, but they, accompanied with the horror of gnawing Conſcien<g ref="char:EOLhyphen"/>ces, had as I ſuppoſe, lodged themſelves ſecurely from the eye of the world, but the All-ſeeing eye of the Almighty, which cannot be blinded, nor will be Hood-winkt, quickly, by the means of the ſucceſsful Searchers, diſcovered theſe Villains, whoſe cruelties are to be admired, and whoſe rewards will doubtleſs in little time be awarded for them. After they had, by the help of ſome Informations, been traced even to their own Lodgings, and being ſeized, they were all found to be Out-landiſh Men, and were on Munday morning following, brought before the Council, who were aſſembled in great number for that ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>poſe; ſo then the Ring-leader, or chief of them being <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>amined about the Premiſes, he ſeem<g ref="char:EOLhyphen"/>ed nothing diſmay'd, nor endeavoured by any Evaſions to ac<g ref="char:EOLhyphen"/>quit himſelf of his Butchery, but with admired impudence ac<g ref="char:EOLhyphen"/>knowledged the thing, and confeſſed the Fact: Then being Examined what he was, he anſwered that he was a <hi>German</hi> born, and that his name was <hi>Fratz,</hi> or as ſome ſay <hi>
+                  <g ref="char:V">Ʋ</g>ratz;</hi> and added alſo, that he was a Captain of Foot: He alſo confeſſed that he had received many remarkable favours from the Count <hi>Charles John Conningſmark,</hi> and his Family, which oblieged him not only to accompany him in his Travels, but alſo to vin<g ref="char:EOLhyphen"/>dicate him (when affronted) to the utmoſt of his power, aſ<g ref="char:EOLhyphen"/>ſerting that the deceaſed had beſtowed many groſs affronts up<g ref="char:EOLhyphen"/>on the ſaid Count, which ſorely vexed and tormented his in<g ref="char:EOLhyphen"/>gaged Soul, and for theſe cauſes reſolved to take ſatisfaction of him (in this barbarous manner as is ſuppoſed,) being inform<g ref="char:EOLhyphen"/>ed that the ſaid Mr. <hi>Thynn</hi> was gone out in his Coach, (the De<g ref="char:EOLhyphen"/>vil who ſtill is the chief animater of ſuch bloody miſchiefs) put him in mind that then might be an opportune ſeaſon to affect his Diabolical deſign; in order thereunto he took Horſe, ac<g ref="char:EOLhyphen"/>companied only with one friend and a Servant which he had, who was provided with a Muſquetoon, themſelves being well armed with Swords and Piſtols: He alſo alledgeth, that at
+<pb n="3" facs="tcp:151398:4"/>their meeting of the Coach near or at <hi>Pall-Mall,</hi> he rid up to the Coach, bidding the Coach-man ſtand, with an intent to have fought the ſaid Mr. <hi>Thynn,</hi> but that his Servant being a <hi>Polander</hi> and a ſtranger (perhaps as much to humanity as to) his Language, not rightly underſtanding what he ſaid, diſcharging the Muſquetoon into the Coach, ſhot him into the Belly, (ſome ſay with four, and ſome ſay) with five Bullets, but be it four or five, this worthy Gentleman loſt his dear life thereby, to the great lamentation of many, and admiration of the whole City and Country that have heard of this miſhap.</p>
+            <p>This being with great Impudence confeſſed to the Council, he was ordered to withdraw out of the Council-Chamber; which being done, the Servant before <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ationed was called in and Examined, who very audaciouſly denyed all and every particular, but being Confronted with his Maſter, he then confeſſed that he was but newly arrived in <hi>England,</hi> and that as laſt Friday being the 19th. Inſtant, he came from <hi>Dam</hi> in <hi>Pome<g ref="char:EOLhyphen"/>ren,</hi> and was become Servant to Captain <hi>Fratz;</hi> adding, that as he was his Servant, he thought he was thereby oblieged to obey his orders, and perform his comand, and that according<g ref="char:EOLhyphen"/>ly he took Horſe with him, and ſo meeting with this Gentle<g ref="char:EOLhyphen"/>man in his Coach, he ſaith his Maſter bid him ſire, which in o<g ref="char:EOLhyphen"/>bedience to his commands he did, by which means he not only deprived this Gentleman of his life, but alſo hath brought his own into ſuch jeopardy, that I hardly think he will go a<g ref="char:EOLhyphen"/>gain into his own Country to boaſt of this wicked Murder.</p>
+            <p>A Third perſon being Examined, acknowledged himſelf to be a <hi>Sweede</hi> by Birth, and that his Name was <hi>John Stern,</hi> ha<g ref="char:EOLhyphen"/>ving been formerly a Lieutenant in <hi>Flanders,</hi> alledging that his coming into <hi>England</hi> was to get imployment, and acciden<g ref="char:EOLhyphen"/>tally became acquainted with the aforeſaid Captain <hi>Fratz,</hi> not above a week ago, and that at the requeſt of the ſaid Captain he accompanied him abroad on Sunday, and that the ſaid Captain diſcovered to him that he had a Quarrel againſt a Gentleman, and that he was reſolved to ſight him: He alſo
+<pb n="4" facs="tcp:151398:4"/>ſaith, That he was not by when the Muſquetoon was diſchar<g ref="char:EOLhyphen"/>ged, but was about twenty paces behind the Coach, which might be and he nevertheleſs acceſſary to the thing; So the Council having deliberated well upon the matter, they were all three committed to <hi>Newgate,</hi> in order to their Tryal. Like<g ref="char:EOLhyphen"/>wiſe a <hi>German</hi> Doctor in whoſe houſe this Captain <hi>Fratz</hi> was taken, it being ſtrongly ſuppoſed that he was privy to the Deſign: And beſides all this, His Majeſty out of his great care of, and tender love to his Loyal Subjects, hath cauſed ſeveral other perſons to be examined before the Council con<g ref="char:EOLhyphen"/>cerning this moſt horible and bloody Murder, by which means the evil deſign againſt the deceaſed is more and more mani<g ref="char:EOLhyphen"/>feſted, notwithſtanding the great pretences and ſubtile Eva<g ref="char:EOLhyphen"/>ſions made by the ſaid Captain <hi>Fratz,</hi> and I doubt not but in a very little time to give you a more punctual and poſitive ac<g ref="char:EOLhyphen"/>count of the Punctilio's, for it already begins to ſavor of de<g ref="char:EOLhyphen"/>ſign, and that the Murder was abſolutely determined upon, and is groſly ſuſpected to be hatched and contrived by the above-mentioned Count <hi>Charles John Coningſmark,</hi> who hath concealed himſelf in Town, under a falſe name about a Fort<g ref="char:EOLhyphen"/>night, and upon the Murther committed upon the body of Mr. <hi>Thynn,</hi> hath ſecretly and ſuddenly removed from his Lodging, which ſeems to be an Argument of his conſpiracy, he removing the very next morning after the perpetration of this Wickedneſs.</p>
+         </div>
+         <div type="account">
+            <head>A True Account of the Apprehending and Ta<g ref="char:EOLhyphen"/>king of <hi>Count Conningſmark;</hi> Shewing how before the Mayor of <hi>Graveſend,</hi> he had pretended himſelf an Apprentice; and of the hand<g ref="char:EOLhyphen"/>fuls of Money he diſtributed among thoſe that Guarded him, <hi>&amp;c.</hi> With his Examination before his Majeſty in Privy Council.</head>
+            <p>WHereas 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> was promiſed for the taking of Count <hi>Con<g ref="char:EOLhyphen"/>ningſmark;</hi> A perſon ſuppoſed to have known where the Count has been for four days laſt paſt did acquaint Mr. <hi>Kidd,</hi> Mr. <hi>Thynn</hi>'s Gentleman, he acquainted Mr. <hi>Gibbons,</hi> one of the
+<pb n="5" facs="tcp:151398:5"/>Duke of <hi>Monmouths</hi> Gentlemen, where the Count was: whereupon Mr. <hi>Gibbons,</hi> and one of the Duke of <hi>Yorks</hi> Wa<g ref="char:EOLhyphen"/>termen, with ſome others, went to <hi>Graveſend, Feb.</hi> 19. at 8 of the Clock at Night. This Count was taken at that time and place, in poor Habit, come on ſhore, he had a black old Per<g ref="char:EOLhyphen"/>uke, with his own hair tyed like a Womans, roul'd up upon his head, and the reſt hung down his Back under his Coat, his own Hair being very White, he having Dined on <hi>Sunday</hi> laſt at <hi>Greenwich.</hi>
+            </p>
+            <p>The firſt that ſeized him was Mr. <hi>Gibbons,</hi> who claſped him with both his Arms, ſaying; <hi>Sir, you are my Priſoner:</hi> the Count had a Sword under his Coat, and his Hand on the Hilt, but the Sword dropt by reaſon of Mr. <hi>Gibbon</hi>'s Craſp: The Count had like to have ſprung out of his hands, and was very Mutinous; and askt Mr. <hi>Gibbons, If he came to Rob him?</hi> But Mr. <hi>Gibbons</hi> told him, <hi>He had the King's War<g ref="char:EOLhyphen"/>rant, and the Recorder of</hi> Graveſend<hi>'s Warrant to ſeize him:</hi> With that the Waterman took hold on one of his Arms, and Mr. <hi>Gibbons</hi> on the other; he askt Mr. <hi>Gibbons, Who he was, that would offer to ſeize him?</hi> And after ſome Diſcourſe, the Count confeſſed, he was the Count <hi>Conningſmark,</hi> before he was carried before the Mayor of <hi>Graveſend, Mr. Gibbons</hi> anſ<g ref="char:EOLhyphen"/>wered, <hi>He was the Duke of</hi> Monmouth<hi>'s Servant:</hi> Then ſaid the Count, <hi>The Duke of</hi> Monmouth <hi>is out of favour at Court:</hi> But, ſaith <hi>Mr. Gibbons, The King has loſt a good Subject, and my Maſter a good Friend, and ſo have we all, a Worthy Gentle<g ref="char:EOLhyphen"/>man moſt Barbarouſly Murthered;</hi> and then the Count paſſed a great many Complements, and deſired to be civilly uſed: The Counts Pockets were ſearched, expecting to find Piſtols, but they found therein two pieces of Polonian Saſſages, they being alſo almoſt full of money.</p>
+            <p>He ask'd, Who the Waterman was? He anſwered, He was the Duke of <hi>York</hi>'s Waterman, and <hi>Mr. Gibbons</hi> had commanded him, in the King's Name, To aſſiſt him. When he was carried before the Mayor, he was very Ceremonious, and ſaid, <hi>He was glad he was fal<g ref="char:EOLhyphen"/>len into the hands of a Gentleman;</hi> and withal again confeſſed, <hi>He was
+<pb n="6" facs="tcp:151398:5"/>the Count</hi> Conningſmark; and alſo deſired, That as he was uſed a<g ref="char:EOLhyphen"/>mong Souldiers, ſo he might have a Guard of Souldiers, and not of Civil Officers: Hereupon the <hi>Mayor</hi> granted him a ſtrong Guard of Souldiers, and told him, he ſhould have civil Uſage. Then he de<g ref="char:EOLhyphen"/>ſired his Cloaths might be ſent for from the Waterman, who brought them. Hereupon the <hi>Mayor</hi> had an opportunity to examine the Waterman, who to avoid all Suſpition of Confederacy, ſaid, He had been Cruiſing four days upon the Thames, in order to his Eſcape: And further, he told him, the Count ſaid to him, <hi>He was an Appren<g ref="char:EOLhyphen"/>tice to a Jeweller, and a Banker; and that his Fellow Prentice had fraudu<g ref="char:EOLhyphen"/>lently convey'd from his Maſter, without his privity, a great many Jewels and other things, to ſeveral Thouſand pounds value; and tho' he was In<g ref="char:EOLhyphen"/>nocent; yet being the elder Prentice, he ſadly dreaded Impriſonment for his Partners Fact: and therefore the Count took this Courſe to convey himſelf beyond Sea; where he had Intelligence his fellow Apprentice was, and there he did intend to apprehend him, and clear himſelf, and return to</hi> England <hi>to his Maſter.</hi> The Waterman believing this Story did his beſt to con<g ref="char:EOLhyphen"/>vey him away.</p>
+            <p>As the Count was carrying away from the <hi>Mayor,</hi> he gave his guard a handful of money to buy Tobacco and Ale; and gave the Duke of <hi>Yorks</hi> Waterman that aſſiſted in taking him, another handful of mo<g ref="char:EOLhyphen"/>ney, and ſaid; <hi>He had but one Baſtion or Counteſcarp more to enter upon, and that would do his Buſineſs:</hi> A Nobleman ſaid, He was always full of Projects, but he ſuppoſed he meant a Scaffold.</p>
+            <p>When he was before his Majeſty in Counſel, he was ask'd ſeveral Queſtions: to which he made ſlight anſwers; and ſeem'd unconcern'd, but in the concluſion, about 12 at Night he was ſent to <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>This Account is taken from Mr.</hi> Gibbons, <hi>who firſt ſeized the Count.</hi>
+            </p>
+         </div>
+         <div type="proceedings">
+            <head>The Proceedings at the Old Bayley, concerning the Count, <hi>&amp;c.</hi>
+            </head>
+            <p>ABout 9 in the morning, the Court being ſet, the Jury Im<g ref="char:EOLhyphen"/>panneled for the Trying of theſe Notorious Offenders, being called over, were half Engliſh and half Forreigners. The Priſoners were brought up by order of Court, and ſeverally Arraigned for the Murder, and demanded to plead Guilty or not Guilty; as likewiſe <hi>Charles John Conningſmark,</hi> who was put upon the ſame Iury, he as well as the reſt having an Interpreter allowed him; when they had ſo pleaded, and put themſelves upon God and their Country, the Iury were Sworn, and they ordered to look to their Charges. Whereupon the Count made a Peremptory Exception againſt 17 or 18, but at laſt
+<pb n="7" facs="tcp:151398:6"/>a Iury of Engliſh and Aliens were Sworn, and the Indictment Read, which was, That <hi>George Borishy</hi> had on <hi>Feb.</hi> 12. laſt, with a Muſ<g ref="char:EOLhyphen"/>quetoon, Charged with Powder and Bullets, Shot and Killed, <hi>Thomas Thynn</hi> 
+               <abbr>Eſq</abbr> and the ſaid <hi>Chriſtopher <g ref="char:V">Ʋ</g>rats,</hi> was aiding in the ſame.</p>
+            <p>After which Sir <hi>Francis Withins</hi> open'd the matter and manner of the barbarous Murder, as likewiſe Sir <hi>Francis Winnington</hi> and Mr. <hi>Wil<g ref="char:EOLhyphen"/>liams,</hi> Council for the King, whereupon the Evidence were called, and the firſt that were ſworn were two of <abbr>Eſq</abbr> 
+               <hi>Thynns</hi> Men, who gave E<g ref="char:EOLhyphen"/>vidence, that their Maſter having been in his Coach at the Counteſs of <hi>Northumberland,</hi> and returning home through the <hi>Pall-Mall</hi> on the day aforeſaid in the Evening, three perſons came riding up to the Coach, one ſtopping it, and another firing into it, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen ſled with what haſt they could, and although purſuit was made after them, they could not be taken: Next the Examinations which were taken by Sir <hi>John Risby</hi> and Mr. <hi>Bridgman,</hi> were Sworn to by the ſaid Iuſtices, who gave the ſubſtance of them as followeth. That <hi>Borisky</hi> had confeſſed he ſhot into the Coach at the command of <hi>Vrats,</hi> and that <hi>Vrats</hi> had confeſſed he went to compell Eſquire <hi>Thynn</hi> to ſight him, and that for his affronts put upon Count <hi>Conningſmark</hi> he deſired <hi>Stern</hi> and <hi>Borisky</hi> only to ſee fair play, ſaying, That the latter ſired without his Order, but it being proved fully, not only by their Examinations before the Iuſtices, but likewiſe they in Court confeſſed the ſame, the Council proceeded to prove that the Count was the principal contriver of this Murther, whereupon one Mr. <hi>Vanſoy</hi> Tutor to the Counts Brother was called, who gave Evidence, that he had entertaind <hi>Borisky</hi> in his ſervice but the Friday before the Murther, and that he had bought him a Sword and other Accou<g ref="char:EOLhyphen"/>trements for Horſemanſhip.</p>
+            <p>
+               <hi>Dr.</hi> Frederick Harvey <hi>being Sworn, teſtified, That the Count was his Patient, and that he had a breaking our in his Breaſt, which cauſed him to diſgulſe himſelf; becauſe he would not he obliged to drink or Sort himſelf with any Company. A Foot-Boy of his was likewiſe Sworn; who teſtified; That</hi> Urats <hi>was commonly with his Maſter, and that the Night the Murder was dine, he came-thither, and the Count the next morning fled, having ſhified his Lodgings three or four times. The Sweed at</hi> Rotherith, <hi>at whoſe houſe he lay, was called, who gave Evidence, That he came to his houſe, telling him he was in ſome Danger, deſiring to have ſome change of Apparel, which he lent him, and the next day he hired a Skuller, and was three days Cruiſing upon the River of</hi> Thames, <hi>between that and</hi> Graves-end. <hi>The next was Mr.</hi> Gibbons <hi>and Mr.</hi> Kid, <hi>who took him, Their Evidence was, That they having Notice from a perſon, that the Count abſconded at</hi> Rotherith, <hi>they got a Warrant and purſued him to</hi> Graves-end, <hi>where they had <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he was gone, and there ſeized him. That after various diſcourſes; he ſaid,</hi> That this buſineſs might prove a ſtain to his blood, but that a brave Action in War might recover it. <hi>After which the Jury went but and conſidered the Evidence; When they returned, they found</hi> Urats, Borisky, <hi>and</hi> Stern, <hi>Guilty of Wilful Murther, but accquitted the Count: Whereupon the Court proceeded to give Judgement of Death upon thoſe that were found Guil<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151398:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
